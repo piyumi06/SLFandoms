@@ -461,7 +461,7 @@ color:white;
 .news h2{
     text-align:center;
     font-size:42px;
-    color:#7c4dff;
+    color:white;
     margin-bottom:50px;
 }
 
@@ -489,14 +489,14 @@ color:white;
 }
 
 .news-card p{
-    color:#d6d6d6;
+    color:white;
     line-height:1.6;
     margin-bottom:20px;
 }
 
 .news-card a{
     text-decoration:none;
-    color:#7c4dff;
+    color:white;
     font-weight:600;
 }
 
